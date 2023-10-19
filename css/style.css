@@ -1,0 +1,26 @@
+body{
+    background-color: #ae2626;
+    color:aqua;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.box1{
+   
+    width: 80%;
+    background-color: aquamarine;
+    color: black;
+    border:5px red solid;
+    border-style:dotted;
+    padding: 2%;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: aquamarine;
+}
+a:active{
+    columns: green;
+}
+.box1 h1{
+    padding: 20%;
+}
